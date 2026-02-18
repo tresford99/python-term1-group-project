@@ -1,7 +1,8 @@
 # Term One Group Project — Introduction to Python
 
 ## Student
-- Tresford
+- Name: john sipanje 
+- Student Number: 2025010743
 
 ## Objective
 This project is part of the Term One Python course.  
